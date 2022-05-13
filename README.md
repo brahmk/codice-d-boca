@@ -1,2 +1,2 @@
 # codice-d-boca
-restaurant menu
+simple restaurant landing page that pulls data from API to populate menu items
